@@ -227,3 +227,8 @@ a:hover {
         width: fit-content;
     }
 }
+/* ================= HIGHLIGHT ================= */
+.highlight {
+    font-weight: 700;
+    color: #222;
+}
